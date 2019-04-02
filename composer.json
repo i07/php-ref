@@ -9,10 +9,5 @@
     },
     "autoload": {
         "files": [ "ref.php" ]
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0"
-        }
     }
 }
